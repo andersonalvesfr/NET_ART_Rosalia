@@ -1,0 +1,74 @@
+body{
+	height: 100%
+}
+
+main{
+	padding: auto 0 auto 0;
+}
+img {
+	width: 10%;
+	/*height: 17.3%;*/
+	height: 107.5px;
+	transition: 2s all;
+	position: relative; 
+	left: 0;
+}
+
+/*img:hover{
+	opacity: rgba(255,51,85, 0.3);
+	left: 50px;
+	transform: rotate(900deg);
+	
+
+	/*transform:  scale(1.1);*/
+
+.gif:hover{
+	opacity: rgba(255,51,85, 0.3);
+	top: 50px;
+	transform: rotate(900deg);
+	bottom: 50px;
+	
+}
+
+.gif1:hover{
+	opacity: rgba(255,51,85, 0.3);
+	right: 50px;
+	transform: rotate(900deg);
+}
+.gif2:hover{
+	opacity: rgba(255,51,85, 0.3);
+	left: 50px;
+	transform: rotate(900deg);
+}
+.gif3:hover{
+	opacity: rgba(255,51,85, 0.3);
+	top: 50px;
+	transform: rotate(900deg);
+}
+.gif4:hover{
+	opacity: rgba(255,51,85, 0.3);
+	bottom: 50px;
+	transform: rotate(900deg);
+}
+
+body{
+	background-image: /*url("https://highxtar.com/wp-content/uploads/2020/03/highxtar-rosalia.jpg"),*/
+	url("https://media4.giphy.com/media/jUQ8Wa0AUNWetvOiH0/giphy.gif?cid=ecf05e47yk5q0y8kcepu2rmvfalt6rl1xnvmesdah386y05l&rid=giphy.gif&ct=s"),
+	url("https://media3.giphy.com/media/WgO5qObC4NeV62MyWG/giphy.gif?cid=790b7611c526593a13b2b749f9279ba8374e03e8f4c23199&rid=giphy.gif&ct=s"),
+	url("https://media1.giphy.com/media/M3rj0kvLfILEYjQSch/giphy.gif?cid=790b76119187b4fc8f5ce48c72df3bbf462181994b83cacb&rid=giphy.gif&ct=s"),
+	url("https://media0.giphy.com/media/B0hyMH436sJOGjBbfQ/giphy.gif?cid=790b7611f290f5b085b27611ca1cac7789a3c713032a6c2b&rid=giphy.gif&ct=s"),
+	url("https://media3.giphy.com/media/fGF2BeZsTnzCqnHOnm/giphy.gif?cid=790b76112f70684250e1f9382c47f3b37ba5b220dfc2fc12&rid=giphy.gif&ct=s");
+	/*url("https://www.rosalia.com/wp-content/uploads/2021/02/portada_final_CMYK-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2021/02/ROSALIA-CON-ALTURA-LAYERED-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2021/02/ROSALIA-AUTE-CUTURE-10x10-lyrd-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2021/02/FMM-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2021/02/RO-yoxti-final-1024x1024.jpg"),
+	url("http://dev.rosalia.com/wp-content/uploads/2021/01/A-pale-FINALv2-1024x1024.jpg"),
+	url("http://dev.rosalia.com/wp-content/uploads/2021/01/JURO-QUE-LAYERED-FILEv2-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2021/02/tkn-1024x1024.jpg"),
+	url("https://dev.rosalia.com/wp-content/uploads/2021/11/lafama-1-1024x1024.jpg"),
+	url("https://www.rosalia.com/wp-content/uploads/2022/02/mm-cover.jpg");*/
+	background-size: 10% auto;
+	color: rgb(255,51,85) 
+	background-repeat: repeat;
+}
